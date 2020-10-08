@@ -1,0 +1,299 @@
+@page {
+    }
+
+.align-end {
+    display: block;
+    text-align: right;
+    text-indent: 0;
+    width: auto
+    }
+.author {
+    border-top-
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: block;
+    font-size: 0.75em;
+    text-indent: 0;
+    width: auto
+    }
+.author1 {
+    border-bottom-
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    display: block;
+    font-size: 0.75em;
+    text-indent: 0;
+    width: auto
+    }
+.book-title-after {
+    display: block;
+    font-size: 0.75em;
+    text-indent: 0;
+    width: auto
+    }
+.book-title-main {
+    display: block;
+    font-size: 1.41667em;
+    text-indent: 0;
+    width: auto
+    }
+.book-title-main1 {
+    display: block;
+    font-size: 1.125em;
+    text-indent: 0;
+    width: auto
+    }
+.calibre {
+    display: block;
+    text-indent: inherit;
+    width: auto
+    }
+.calibre1 {
+    display: block;
+    text-indent: inherit;
+    width: auto
+    }
+.calibre2 {
+    display: block;
+    text-indent: inherit;
+    width: auto
+    }
+.calibre3 {
+    background: transparent;
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    width: auto
+    }
+.calibre4 {
+    display: block
+    }
+.calibre5 {
+    background: transparent;
+    color: inherit;
+    font-style: inherit;
+    font-weight: inherit;
+    text-decoration: none
+    }
+.calibre6 {
+    background: transparent;
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    width: auto
+    }
+.copyright {
+    display: block;
+    font-size: 0.75em;
+    text-indent: 0;
+    width: auto
+    }
+.fit {
+    background: transparent;
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: inline-block;
+    width: auto
+    }
+.fit1 {
+    background: transparent;
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: medium;
+    display: inline-block;
+    width: auto
+    }
+.font-0em {
+    font-size: 0.75em
+    }
+.font-1em {
+    font-size: 1.41667em
+    }
+.font-1em1 {
+    display: block;
+    font-size: 1.125em;
+    width: auto
+    }
+.font-1em2 {
+    display: block;
+    font-size: 1.41667em;
+    text-indent: inherit;
+    width: auto
+    }
+.font-1em3 {
+    font-size: 1.125em
+    }
+.font-1em4 {
+    display: block;
+    font-size: 1.41667em;
+    text-indent: 0;
+    width: auto
+    }
+.gfont {
+    display: block;
+    text-indent: 0;
+    width: auto
+    }
+.kobospan {
+    }
+.kobospan1 {
+    }
+.label {
+    display: block;
+    text-indent: 0;
+    width: auto
+    }
+.label-name {
+    display: block;
+    font-size: 0.75em;
+    text-indent: inherit;
+    width: auto
+    }
+.label1 {
+    display: block;
+    text-indent: 0;
+    width: auto
+    }
+.main {
+    display: block;
+    text-indent: 0;
+    width: auto
+    }
+.main1 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    width: auto
+    }
+.main2 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    width: auto
+    }
+.main3 {
+    display: block;
+    text-indent: 0;
+    width: auto
+    }
+.main4 {
+    display: block;
+    text-align: left;
+    text-indent: 0;
+    width: auto
+    }
+.man {
+    display: block;
+    text-indent: 0;
+    width: auto
+    }
+.original-title {
+    display: block;
+    text-indent: inherit;
+    width: auto
+    }
+.p-caution {
+    -webkit-text-underline-position: under left;
+    background: transparent;
+    display: block;
+    font-size: 0.75em;
+    letter-spacing: normal;
+    text-align: justify;
+    text-indent: 0;
+    white-space: normal;
+    word-spacing: normal;
+    word-wrap: break-word
+    }
+.p-cover {
+    -webkit-text-underline-position: under left;
+    background: transparent;
+    display: block;
+    font-size: 1em;
+    letter-spacing: normal;
+    text-align: center;
+    text-indent: 0;
+    white-space: normal;
+    word-spacing: normal;
+    word-wrap: break-word
+    }
+.p-titlepage {
+    -webkit-text-underline-position: under left;
+    background: transparent;
+    display: block;
+    font-size: 1em;
+    letter-spacing: normal;
+    text-align: justify;
+    text-indent: 0;
+    white-space: normal;
+    word-spacing: normal;
+    word-wrap: break-word
+    }
+.publisher-data {
+    display: block;
+    font-size: 0.75em;
+    text-indent: 0;
+    width: auto
+    }
+.release-date {
+    display: block;
+    font-size: 0.75em;
+    text-indent: 0;
+    width: auto
+    }
+.tcy {
+    }
+.word-break-break-all {
+    }
+.pcalibre:link {
+    color: #000
+    }
+.pcalibre1:focus {
+    color: #696969
+    }
+.pcalibre3:visited {
+    color: #000
+    }
+.pcalibre4:hover {
+    color: #696969
+    }
+.pcalibre2:active {
+    color: #696969
+    }
+

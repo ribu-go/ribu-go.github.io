@@ -1,0 +1,36 @@
+body {
+	background-color: #202020;
+	margin:2% 6%;	
+}
+
+.kindle, .kindle2, body {
+	color: #BCBCBC;
+	line-height:1.5em;
+	font-family: "Meiryo", "IPAGothic", "Sazanami Gothic", "Kochi Gothic", "VL Gothic", "Ume Gothic", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "Osaka Mono", "Osaka", "ＭＳ ゴシック", "MS Gothic", "メイリオ", "M+ 1m";
+	font-size: 1.2em;
+	font-weight: 400;
+}
+
+a:visited, .pcalibre:visited {
+   color:#d2aff1;
+    }
+a:link, .pcalibre1:link {
+    color:#8ebacc;
+}
+
+#bookmark {
+	position:absolute;
+	left:0px;
+	right:0px;
+	width:100%;
+	height:40px;
+	background-color:red;
+	opacity:.3;
+}
+
+img {
+	max-width:82%;
+  width: auto;
+  height: auto;
+	/* max-height: 100vh; */
+}
